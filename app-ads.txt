@@ -31,6 +31,16 @@ axonix.com, 57869, RESELLER
 conversantmedia.com, 100308, RESELLER, 03113cd04947736d
 adform.com, 2671, RESELLER
 freewheel.tv, 1235183, RESELLER
+pubmatic.com, 161582, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 3891336054, RESELLER
+video.unrulymedia.com, 682817271102171104, RESELLER
+video.unrulymedia.com, 3795567838, RESELLER
+video.unrulymedia.com, 1286320118, RESELLER
+rubiconproject.com, 25374, RESELLER, 0bfd66d529a55807
+smartclip.net, 12358, RESELLER
+smartclip.net, 12422, RESELLER
+whildey.com, 6401127138, RESELLER
+advanttechnology.com, 2142690699, RESELLER
 freewheel.tv, 1235279, RESELLER
 whildey.com, 5541841875, RESELLER
 adnuro.com, 2882096573, RESELLER
