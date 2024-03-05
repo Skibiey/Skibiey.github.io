@@ -11,6 +11,7 @@ ignitemediatech.com, pub_61122, RESELLER
 ignitemediatech.com, 61119, RESELLER
 smartyads.com, 300045, RESELLER, fd2bde0ff2e62c5d
 video.unrulymedia.com, 645663965, RESELLER
+smaato.com, 1100056110, RESELLER, 07bcf65f187117b4
 advertising.com, 23089, RESELLER
 advertising.com, 28605, RESELLER
 aniview.com, 603f65a2e291680ef30af9c7, RESELLER, 78b21b97965ec3f8
