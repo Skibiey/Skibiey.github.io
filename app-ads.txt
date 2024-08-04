@@ -22,6 +22,9 @@ appnexus.com, 11450, RESELLER, f5ab79cb980f11d1
 ardenodemedia.com, 6722177159, RESELLER
 webeyemob.com, 70628, RESELLER
 taurusx.com, 70628, RESELLER
+adingo.jp, 31054, RESELLER
+singularads, 548745, RESELLER
+yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 webeyemob.com, 80609, RESELLER
 taurusx.com, 80609, RESELLER
 improvedigital.com, 2450, RESELLER
