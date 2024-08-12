@@ -21,6 +21,8 @@ indexexchange.com, 191497, RESELLER, 50b1c356f2c5c8fc
 appnexus.com, 11450, RESELLER, f5ab79cb980f11d1
 ardenodemedia.com, 6722177159, RESELLER
 webeyemob.com, 70628, RESELLER
+App-stock.com, 558223, Reseller, ed8c126ea5971415
+contextweb.com, 563321, RESELLER, 89ff185a4c4e857c
 taurusx.com, 70628, RESELLER
 adingo.jp, 31054, RESELLER
 singularads, 548745, RESELLER
