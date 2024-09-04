@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jadoo Std - Wallpapers</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="hero">
+        <nav>
+            <a href="index.html"><img src="logo.png" alt="Jadoo Std Logo" class="logo"></a>
+            <div class="menu-toggle" id="menu-toggle">
+                <div class="bar"></div>
+                <div class="bar"></div>
+                <div class="bar"></div>
+            </div>
+            <ul id="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        
+        <h1>Explore Stunning Wallpapers</h1>
+        <p>Discover high-quality wallpapers for your device</p>
+        <a href="#apps" class="hero-button">Explore Now</a>
+    </header>
+
+    <section id="apps" class="app-grid">
+        <div class="app-item">
+            <img src="kuromi_icon.png" alt="Kuromi Wallpaper">
+            <h2>Kuromi Wallpaper HD 4K</h2>
+            <a href="kuromi-wallpaper.html" class="download-button">Download</a>
+        </div>
+        <div class="app-item">
+            <img src="Wednesday_icon.png" alt="Wednesday Addams Wallpaper">
+            <h2>Wednesday Addams Wallpaper</h2>
+            <a href="wednesday-wallpaper.html" class="download-button">Download</a>
+        </div>
+        <div class="app-item">
+            <img src="ali_icon.png" alt="Ali Wallpaper 4K">
+            <h2>Ali Wallpaper 4K</h2>
+            <a href="ali-wallpaper.html" class="download-button">Download</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Jadoo Std</p>
+    </footer>
+
+    <script>
+        document.getElementById('menu-toggle').onclick = function() {
+            document.getElementById('nav-links').classList.toggle('show');
+        };
+    </script>
+</body>
+</html>

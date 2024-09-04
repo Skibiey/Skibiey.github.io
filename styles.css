@@ -1,0 +1,314 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f5f5f5;
+}
+
+header.hero {
+    height: 100vh;
+    background: url('hero-image.jpg') no-repeat center center/cover;
+    color: #444551;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+header.hero h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+}
+
+header.hero p {
+    font-size: 1.2em;
+    margin-bottom: 1em;
+}
+
+.hero-button {
+    background-color: #ac25e9;
+    padding: 0.8em 1.5em;
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    font-size: 1em;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s;
+}
+
+.hero-button:hover {
+    background-color: #9020c5;
+}
+
+section.app-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 2em;
+    background-color: #ffffff;
+}
+
+.app-item {
+    background-color: #fff;
+    padding: 3em;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 30%;
+    margin-bottom: 2em;
+}
+
+.app-item img {
+    max-width: 80px; /* Smaller icon size */
+    border-radius: 8px;
+}
+
+.app-item h2 {
+    margin: 1em 0;
+    font-size: 1.2em;
+}
+
+.download-button {
+    background-color: #ac25e9;
+    padding: 0.6em 1.2em;
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    font-size: 1em;
+    transition: background-color 0.3s;
+}
+
+.download-button:hover {
+    background-color: #ac25e9;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    header.hero h1 {
+        font-size: 2em;
+    }
+
+    header.hero p {
+        font-size: 1em;
+    }
+
+    .app-item {
+        width: 80%; /* Full width on smaller screens */
+    }
+
+    .app-item img {
+        max-width: 60px; /* Even smaller icons on mobile */
+    }
+
+    .download-button {
+        padding: 0.5em 1em;
+        font-size: 0.9em;
+    }
+}
+
+.about-section, .contact-section {
+    padding: 2em;
+    background-color: #ffffff;
+    margin: 0 auto;
+    max-width: 800px;
+    text-align: center;
+}
+
+.about-section h2, .contact-section h2 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+}
+
+.about-section p, .contact-section p {
+    font-size: 1.1em;
+    margin-bottom: 1em;
+}
+
+.contact-section a {
+    color: #ac25e9;
+    text-decoration: none;
+}
+
+.contact-section a:hover {
+    text-decoration: underline;
+}
+
+/* Navigation Bar */
+nav {
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+    padding: 1em 0;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+nav ul li a:hover {
+    background-color: #ac25e9; /* Highlight on hover */
+    color: white;
+}
+
+/* Adjusting for hero section */
+.hero {
+    padding-top: 60px; /* Offset to account for fixed navbar */
+}
+
+/* Logo Styling */
+nav ul li a img.logo {
+    height: 40px; /* Adjust height as needed */
+    vertical-align: middle;
+    margin-right: 10px;
+}
+/* App Details Section */
+.app-details {
+    text-align: center;
+    padding: 2em;
+    background-color: #ffffff;
+}
+
+.app-details img {
+    max-width: 150px;
+    border-radius: 8px;
+    margin-bottom: 1em;
+}
+
+.app-details p {
+    font-size: 1.2em;
+    margin-bottom: 1.5em;
+}
+
+.download-button {
+    background-color: #ac25e9;
+    padding: 0.8em 1.5em;
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    font-size: 1.2em;
+    transition: background-color 0.3s;
+}
+
+.download-button:hover {
+    background-color: #831db2;
+}
+/* Base Navigation Styling */
+nav {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 1em 0;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+nav .logo {
+    height: 40px; /* Adjust size as needed */
+    margin-left: 42px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+nav ul li a:hover {
+    background-color: #ac25e9;
+    color: white;
+}
+
+/* Menu Toggle Button */
+.menu-toggle {
+    display: none;
+    cursor: pointer;
+}
+
+.menu-toggle .bar {
+    width: 25px;
+    height: 3px;
+    background-color: white;
+    margin: 5px 0;
+    transition: 0.4s;
+}
+
+/* Responsive Styling */
+@media (max-width: 768px) {
+    .menu-toggle {
+        display: block;
+        position: absolute;
+        top: 20px;
+        right: 20px;
+    }
+
+    nav ul {
+        display: none; /* Hide menu by default */
+        flex-direction: column;
+        width: 100%;
+        background-color: rgba(0, 0, 0, 0.9);
+        position: absolute;
+        top: 60px;
+        left: 0;
+    }
+
+    nav ul.show {
+        display: flex; /* Show menu when toggled */
+    }
+
+    nav ul li {
+        margin: 10px 0; /* Space out menu items vertically */
+    }
+
+    nav ul li a {
+        font-size: 1.5em; /* Increase font size for mobile */
+    }
+}
