@@ -42,6 +42,7 @@ contextweb.com, 563601, RESELLER, 89ff185a4c4e857c
 pubnative.net, 1009988, RESELLER, d641df8625486a7b
 pubmatic.com, 161368, RESELLER, 5d62403b186f2ace
 mlion.io, 115104695, RESELLER
+themediagrid.com, NG9STC, DIRECT, 35d5010d7789b49d
 video.unrulymedia.com, 505354689, RESELLER
 conversantmedia.com, 100791, RESELLER, 03113cd04947736d
 mintegral.com, 21922, DIRECT
