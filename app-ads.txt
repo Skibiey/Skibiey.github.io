@@ -16,6 +16,17 @@ adswizz.com, 561, RESELLER
 zetaglobal.net, 815, RESELLER
 sabio.us, 100092, reseller, 96ed93aaa9795702
 freewheel.tv, 1606620, reseller
+lijit.com, 545922, RESELLER, fafdf38b16bf6b2b
+lijit.com, 545924, RESELLER, fafdf38b16bf6b2b
+themediagrid.com, GZC9B8, RESELLER, 35d5010d7789b49d
+criteo.com, B-078794, RESELLER, 9fac4a4a87c2a44f
+media.net, 8CUI89K0D, RESELLER
+improvedigital.com, 2527, RESELLER
+improvedigital.com, 2528, RESELLER
+improvedigital.com, 2529, RESELLER
+improvedigital.com, 2530, RESELLER
+bidease.com, bidease_seller_46, RESELLER
+pubmatic.com, 165980, RESELLER, 5d62403b186f2ace
 freewheel.tv, 1606633, reseller
 lijit.com, 465542, RESELLER, fafdf38b16bf6b2b
 onetag.com, 82e44d118b79600, DIRECT
